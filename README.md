@@ -1,2 +1,2 @@
 # Word2vec-demo 
-Game of Thrones book
+Game of Thrones
